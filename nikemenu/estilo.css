@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cajaSuperior{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 20vh;
+	background-color: rgb(0, 0, 0);
+	color: aliceblue;
+	position: sticky;
+	top: 0px;
+	
+}
+
+#milista li {
+	display: inline-block;
+	padding: 30px;
+}
+img{
+	width: 500px;
+}
+
+
+.div_general{
+	width:500px;
+	background-color: white;
+}
+
+h1 {
+	font-family:sans-serif;
+}
+h2 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: rgb(192, 190, 190);
+	font-size: 12pt;
+}
+p{
+	align-content: left;
+	width: 50%;
+	
+	
+}
+.titulos{
+	width: 500px;
+	margin: 50px;
+    padding: 50px;
+    border: 50px;
+}
+.texto_largo{
+	width: 500px;
+	margin: 50px;
+    padding: 50px;
+    border: 50px;
+}
+.texto_superior{
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	}
+
+li{
+
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	list-style: none;
+	font-size: 12px;
+	margin-bottom: 1em;
+}
+#lista2{
+    padding: 50px;
+	background-color: black;
+}
+
+.texto_blanco{
+	padding: 60px;
+}
+.enlace_acceso:hover{
+	text-decoration: underline;
+	color: red;
+	position: relative;
+	top: 5px;
+	left: 5px;
+}
+.enlace_none:hover{
+	text-decoration: line-through;position: relative;
+	top: 5px;
+	left: 5px;
+}
+#gris{
+	color: gray;
+}
