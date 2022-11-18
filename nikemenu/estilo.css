@@ -80,7 +80,8 @@ li{
 	left: 5px;
 }
 .enlace_none:hover{
-	text-decoration: line-through;position: relative;
+	text-decoration: line-through;
+	position: relative;
 	top: 5px;
 	left: 5px;
 }
