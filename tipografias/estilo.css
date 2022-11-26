@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(216, 216, 216);
+}
+section {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family: Helvetica,Arial,  sans-serif;  
+}
+.miflex{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;  
+} 
+.elementos{
+    width: 30%;
+    padding: 1%;
+    background-color: rgb(243, 241, 240);
+    margin: 1ch;
+    
+ }
+ @font-face {
+    font-family: roboto;
+    src: url('https://fonts.googleapis.com/css2? familia= Roboto:ital,peso@0,100;0,300;0,400;1,100;1,300;1,900 & display=swap');
+ } 
+.roboto{
+    font-family:'roboto' ;
+ }
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+ }
+
+.Oswald{
+    font-family: 'Oswald', sans-serif;
+ }
+ .anek{
+    font-family: 'Anek Devanagari', sans-serif;
+ }
+ .playfair{
+    font-family: 'Playfair Display', serif;
+ }
+ .rubik{
+    font-family: 'Rubik Distressed', cursive;
+ }
+ .Raleway{
+    font-family: 'Raleway', sans-serif;
+ }
+ .kanit{
+    font-family: 'Kanit', sans-serif;
+ }
+ .dosis{
+    font-family: 'Dosis', sans-serif;
+ }
