@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+
+}
+#uno{
+    background-color: brown;
+    height: 80vh;
+}
+
+#dos{
+    background-color: rgb(157, 233, 217);
+    height: 80vh;
+}
+#uno_dos{
+    background-color: rgb(4, 50, 40);
+    height: 20vh;
+}
+#uno_tres{
+    background-color: rgb(55, 80, 74);
+    height: 60vh;
+}

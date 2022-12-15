@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+
+}
+#uno{
+    background-color: brown;
+    height: 80vh;
+}
+#dos{
+    background-color: darkseagreen;
+}
+#uno_uno{
+    background-color:aquamarine;
+    height: 20vh;
+}
+#dos_dos{
+    background-color: cadetblue;
+    height: 60vh;
+}

@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+
+}
+#uno{
+    background-color: brown;
+    height: 80vh;
+}
+#dos{
+    background-color: darkseagreen;
+}
